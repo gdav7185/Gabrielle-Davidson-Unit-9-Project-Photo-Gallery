@@ -1,0 +1,29 @@
+.picture {
+  
+    display: block;
+    margin: 10px;
+}
+
+.gallery img {
+    border: 3px dashed black;
+    margin: 25px 50px 50px 75px;
+}
+
+.gallery p {
+    text-align: center;
+    margin-top: 0;
+}
+
+body{
+    text-align:center;
+    background:url(https://i.ibb.co/567GQ2j/pawel-czerwinski-6-Oyd-q79z2-M-unsplash-2.jpg);
+    color:black;
+}
+
+.dessert1,.dessert2,.dessert3 {
+    width: 200px;
+    height: 250px; 
+}
+
+userInput{
+}
